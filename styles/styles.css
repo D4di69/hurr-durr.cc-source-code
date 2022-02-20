@@ -1,0 +1,30 @@
+body {
+	margin-right: 0;
+	margin-top:	0;
+}
+		
+.info-container {
+	display: inline-flex;
+	padding: 7px;
+				
+	float: right;
+	align-items: top;
+}
+
+.info-container div {
+	margin-right: 7px;
+}
+
+.hurr-container {
+	text-align: center;
+}
+
+.links {
+	display: inline-block;
+}
+
+.popup, .link {	
+	cursor: pointer;
+				
+	opacity: 0.85;
+}
